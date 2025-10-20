@@ -9,14 +9,14 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@vercel/analytics": "^1.1.1",
-    "axios": "^1.12.2",                // was ^0.21.1 — major upgrade. :contentReference[oaicite:0]{index=0}  
-"chart.js": "^4.5.0",              // was ^3.5.1 — major upgrade. :contentReference[oaicite:1]{index=1}  
-"react": "^19.2.0",                // was ^17.0.2 — major upgrade. :contentReference[oaicite:2]{index=2}  
-"react-dom": "^19.2.0",            // matching react version.  
-"react-alice-carousel": "^2.9.1",  // was ^2.5.1 — latest minor in v2. :contentReference[oaicite:3]{index=3}  
-"react-chartjs-2": "^5.3.0",       // was ^3.0.4 — major upgrade. :contentReference[oaicite:4]{index=4}  
-"react-router-dom": "^7.9.4",      // was ^5.2.0 — major upgrade. :contentReference[oaicite:5]{index=5}  
-"react-scripts": "4.0.3",          // remained at 4.0.3 (no newer official version in Create-React-App of same family)  
+    "axios": "^1.12.2",                
+"chart.js": "^4.5.0",            
+"react": "^19.2.0",             
+"react-dom": "^19.2.0",           
+"react-alice-carousel": "^2.9.1",  
+"react-chartjs-2": "^5.3.0",       
+"react-router-dom": "^7.9.4",  
+"react-scripts": "4.0.3",         
 "web-vitals": "^5.1.0" ,
   },
   "scripts": {
